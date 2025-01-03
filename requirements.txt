@@ -1,0 +1,27 @@
+Eda Dana 20210808072
+Dilan Güler 20210808022
+
+# We used "window spy" our project. (bundled with AutoHotkey)
+
+
+# Button Mappings Detected Using Window Spy
+
+0 -> WindowsForms10.BUTTON.app.0.141b42a_r8_ad13
+1 -> WindowsForms10.BUTTON.app.0.141b42a_r8_ad112
+2 -> WindowsForms10.BUTTON.app.0.141b42a_r8_ad111
+3 -> WindowsForms10.BUTTON.app.0.141b42a_r8_ad110
+4 -> WindowsForms10.BUTTON.app.0.141b42a_r8_ad19
+5 -> WindowsForms10.BUTTON.app.0.141b42a_r8_ad18
+6 -> WindowsForms10.BUTTON.app.0.141b42a_r8_ad17
+7 -> WindowsForms10.BUTTON.app.0.141b42a_r8_ad16
+8 -> WindowsForms10.BUTTON.app.0.141b42a_r8_ad15
+9 -> WindowsForms10.BUTTON.app.0.141b42a_r8_ad14
+
+Generate  -> WindowsForms10.BUTTON.app.0.141b42a_r8_ad12
+Clear Data -> WindowsForms10.BUTTON.app.0.141b42a_r8_ad11
+Key Field -> WindowsForms10.EDIT.app.0.141b42a_r8_ad11
+Ok -> Button1
+
+# How Controls Were Detected
+- Window Spy was used to identify the controls.
+- By hovering over the respective buttons in the "CSE303Keygen.exe" application, the ClassNN values were recorded.
